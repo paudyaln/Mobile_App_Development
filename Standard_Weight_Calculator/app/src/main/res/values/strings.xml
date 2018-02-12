@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lab4_Problem</string>
+    <string name="std_wgt">Calculate Standard weight</string>
+    <string name="gender">Gender:</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="height">Height:</string>
+    <string name="feet">feet</string>
+    <string name="inches">inches</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="youare">You are </string>
+    <string name="yourheight">Your height is </string>
+    <string name="stdweightis">The standard weight is </string>
+</resources>

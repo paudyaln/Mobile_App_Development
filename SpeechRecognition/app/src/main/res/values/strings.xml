@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SpeechRecognition</string>
+    <string name="help">Press the record Speech button to translate speech to text. Press Read Text Aloud button to read text with text to speech.</string>
+    <string name="button_record">Record Speech</string>
+    <string name="recorded_text"></string>
+    <string name="button_read">Read Text Aloud</string>
+    <string name="try_help">Try Speech button on Android Keyboard</string>
+    <string name="speech_prompt">Try Speech button on Android Keyboard</string>
+    <string name="speech_not_supported">Try Speech button on Android Keyboard</string>
+
+</resources>
